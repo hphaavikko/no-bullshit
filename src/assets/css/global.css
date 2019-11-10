@@ -1,0 +1,21 @@
+html {
+	-webkit-text-size-adjust: none;
+	-webkit-overflow-scrolling: touch;
+}
+
+body {
+    background-color: #212529;
+    color: #fff;
+    font-family: Roboto, sans-serif;
+    height: 100%;
+}
+
+svg.injected-svg {
+    width: 32px;
+    height: 32px;
+    fill: currentColor;
+}
+
+svg.icon-before {
+
+}
